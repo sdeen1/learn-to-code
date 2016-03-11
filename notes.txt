@@ -1,0 +1,3 @@
+Commit = save point
+Branch = kind of like saving a new game, can go back before the branch, remerge the branch, or get rid of it
+Git init = turn git "on"
